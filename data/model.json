@@ -1,0 +1,37 @@
+{
+  "id": "flux-3-image",
+  "ext": "flux-3-image",
+  "source": "https://apimart.ai/en/pricing",
+  "extracted_at": "2026-10-12T09:50:53Z",
+  "prices": {
+    "default": {
+      "list": null,
+      "effective": 0.0384
+    },
+    "1.5K": {
+      "list": null,
+      "effective": 0.056
+    },
+    "1K": {
+      "list": null,
+      "effective": 0.0384
+    },
+    "2K": {
+      "list": null,
+      "effective": 0.08
+    },
+    "4K": {
+      "list": null,
+      "effective": 0.4856
+    },
+    "768SQ": {
+      "list": null,
+      "effective": 0.0328
+    }
+  },
+  "rates": {},
+  "unit": "usd_per_image",
+  "aspect_ratios": "`auto` or one of 15 ratios from `21:9` to `9:21`",
+  "result_link_ttl": "72 hours",
+  "reference_note": "Up to **10** references, no separate charge. `auto` follows the first reference when editing; text-only generation follows the prompt or defaults to `1:1`."
+}
